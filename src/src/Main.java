@@ -5,6 +5,12 @@ public class Main {
     public static int add(int a, int b){
         return a+b;
     }
+
+    public void fonctionBranche1() {
+        System.out.println("je suis la fonction de la branche 1");
+    }
+
+
     public static void main(String[] args) {
 
 
